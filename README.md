@@ -1,6 +1,6 @@
 # Lazyeat
 
-<h3>简体中文 | <a href="README_EN.md">English</a></h3>
+
 Lazyeat 吃饭时看剧/刷网页不想沾油手？
 
 对着摄像头比划手势就能暂停视频/全屏/切换视频！
